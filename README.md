@@ -29,6 +29,13 @@ camelCase('PizzaSlize') => 'pizzaSlize'
 camelCase('kebab-pizza-slize') => 'kebabPizzaSlize'
 ```
 
+#### titleCase
+Title case the given string.
+
+```typescript
+titleCase('her royal highness') => 'Her Royal Highness'
+```
+
 ## Contributing
 
 ### Installation
