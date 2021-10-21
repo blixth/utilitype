@@ -36,6 +36,13 @@ Title case the given string.
 titleCase('her royal highness') => 'Her Royal Highness'
 ```
 
+### pascalCase
+Pascal case the given string.
+
+```typescript
+pascalCase('General Kenobi') => 'GeneralKenobi'
+```
+
 ## Contributing
 
 ### Installation
