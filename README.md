@@ -2,16 +2,16 @@
 
 Provides utility functions in typescript.
 
-### strings
+## strings
 
-#### capitalize
+### capitalize
 Capitalize the given string
 
 ```typescript
 capitalize('VOLVO') => 'Volvo'
 ```
 
-#### tokenize
+### tokenize
 Tokenizes the given string.
 
 ```typescript
@@ -20,7 +20,7 @@ tokenize('VOLVO_V40') => ['VOLVO', 'V40']
 tokenize('Audi R8') => ['Audi', 'R8']
 ```
 
-#### camelCase
+### camelCase
 Camel case the given string.
 
 ```typescript
@@ -29,7 +29,7 @@ camelCase('PizzaSlize') => 'pizzaSlize'
 camelCase('kebab-pizza-slize') => 'kebabPizzaSlize'
 ```
 
-#### titleCase
+### titleCase
 Title case the given string.
 
 ```typescript
