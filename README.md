@@ -11,6 +11,13 @@ Capitalize the given string
 capitalize('VOLVO') => 'Volvo'
 ```
 
+### tokenize
+```typescript
+tokenize('VOLVO_V40') => ['VOLVO', 'V40']
+
+tokenize('Audi R8') => ['Audi', 'R8']
+```
+
 ## Contributing
 
 ### Installation
