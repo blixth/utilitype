@@ -1,0 +1,7 @@
+--require ts-node/register/transpile-only
+--exclude "**/*/node_modules"
+--colors
+"./test/**/*.spec.ts"
+--slow 75
+--recursive
+--inline-diffs

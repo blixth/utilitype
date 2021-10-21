@@ -2,7 +2,16 @@
 
 Provides utility functions in typescript.
 
-## Getting started
+## strings
+
+### capitalize
+Capitalize the given string
+
+```typescript
+capitalize('VOLVO') => 'Volvo'
+```
+
+## Contributing
 
 ### Installation
 
