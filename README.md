@@ -2,22 +2,24 @@
 
 Provides utility functions in typescript.
 
-- [Any](#-Any)
-- [Arrays](#-Arrays)
-- [Booleans](#-Booleans)
-- [Enumerables](#-Enumerables)
-- [Functions](#-Functions)
-- [JSON](#-JSON)
-- [Numbers](#-Numbers)
-- [Objects](#-Objects)
-- [Strings](#-Strings)
-- [Tabular data](#-Tabular-data)
-- [Units](#-Units)
-    - [Filesize](#-Filesize)
-    - [Length units](#-Length-units)
-    - [Percent](#-Percent)
+## Types
 
-[Contributing](#-contributing)
+- [Any](#Any)
+- [Arrays](#Arrays)
+- [Booleans](#Booleans)
+- [Enumerables](#Enumerables)
+- [Functions](#Functions)
+- [JSON](#JSON)
+- [Numbers](#Numbers)
+- [Objects](#Objects)
+- [Strings](#Strings)
+- [Tabular data](#Tabular-data)
+- [Units](#Units)
+    - [Filesize](#Filesize)
+    - [Length units](#Length-units)
+    - [Percent](#Percent)
+
+[Contributing](#Contributing)
 
 ## Any
 
