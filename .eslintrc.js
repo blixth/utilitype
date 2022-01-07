@@ -8,12 +8,12 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'airbnb-typescript/base',
   ],
-  parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 12,
     sourceType: 'module',
     project: './tsconfig.eslint.json',
   },
+  parser: '@typescript-eslint/parser',
   plugins: [
     '@typescript-eslint',
   ],
