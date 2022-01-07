@@ -1,0 +1,1405 @@
+{
+  "program": {
+    "fileInfos": {
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
+        "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
+      },
+      "c:/spacework/utilitype/src/any/is-missing.ts": {
+        "version": "b9ce6db2fc4d7f3e94ffde7fb8c58cd9534c06cc6ab5c218415ffab1aab274a8",
+        "signature": "2531e7b762ec5a86b54c9c31b2b3422fce4f82d70aa731b91af3147bfaa1af03"
+      },
+      "c:/spacework/utilitype/src/arrays/is-present.ts": {
+        "version": "ed319aab17ab3e21bfb15f453ef58b828120860da80cea1b1dbab058e3b64de4",
+        "signature": "9490e8610526d4e4b5ea91c8af5a177be7ffe567436492ea7e050e369edac490"
+      },
+      "c:/spacework/utilitype/src/numbers/is-number.ts": {
+        "version": "f43202c5e7c800b6f87ae6339670b6c62a19735eead2e9c5b59563894d940751",
+        "signature": "0c0dd031ff6d7efa5ce184942ae0610b5600ed8e7184277d755fc681c1ca11ac"
+      },
+      "c:/spacework/utilitype/src/numbers/is-present.ts": {
+        "version": "698fbe6474a3cdc898ccad1defba7dc78327b35e279fc189c8395e9ae9c51785",
+        "signature": "afb44670516675995043d477eff25f37b03996d812bf583dd2072579fb9ff3fc"
+      },
+      "c:/spacework/utilitype/src/arrays/is-array.ts": {
+        "version": "cfbe81c608feae47e6356556062ba14436600da417a1cb07a0be99771d60a0dd",
+        "signature": "04c42b687ec7872ee28c872fe1b39ce51a7bccdb2137757bc90be7ba2e616118"
+      },
+      "c:/spacework/utilitype/src/objects/is-object.ts": {
+        "version": "d02ba735e696ccea1b215518adf9cb6dd06241df55ed7dc2e3c4a9716044f1a4",
+        "signature": "62b937fcd5de939ffc33ef78f164849bf1fe61ab231b43db76ef83cd83c54caf"
+      },
+      "c:/spacework/utilitype/src/objects/is-present.ts": {
+        "version": "1e8d93fbfaadb50daf823ee829b5d1a67e0d619b13b76bf831d8c1446b736f90",
+        "signature": "92dea8f235e3e088abc9fd8a591674ade0d10f274db42aae3f6a462a64137506"
+      },
+      "c:/spacework/utilitype/src/strings/is-missing-or-empty.ts": {
+        "version": "cdf4c348c90e8ca0058a989ff8bec8eff26e4bf0c2b2cbab544e0aa634bb2c56",
+        "signature": "a1e29247de464f8404739855aecb5949f66bc920e65c97e31daad486c8dcaf85"
+      },
+      "c:/spacework/utilitype/src/strings/is-missing-or-white-space.ts": {
+        "version": "c718eb16e54ec86139f725e64cd01e7cd1d34a249e77607b1627689f9af68885",
+        "signature": "36eb7cfa7cc638b11dc43ec86b9732aa3cdf7c8cb1ea16cd2629f0451344ad10"
+      },
+      "c:/spacework/utilitype/src/strings/is-present.ts": {
+        "version": "342883bf05e99a48e63825effad3e28310627c9ed2cbb504db831c1424348ab7",
+        "signature": "3ca140c68f71d04ab768486066ce6d99f9a7128c1de7f3138f511578c130f6b3"
+      },
+      "c:/spacework/utilitype/src/booleans/is-present.ts": {
+        "version": "9fe331b869a7f79a9abf8b2b4f4ad970db1386ed3242f813b06c0107844d8d02",
+        "signature": "69fadc83fc55f15bd521ca8f8f65d3aaf7c0329f82e2dd63c83223a597a1f8c3"
+      },
+      "c:/spacework/utilitype/src/functions/is-function.ts": {
+        "version": "33903ddb2ec37685c2858f181c8a3a720f1b986da4dcad3943c8d664f7bb488d",
+        "signature": "7fe1027f8d75103a8f07bf15a7559c22ebbed9abb60a96f6f8dddc6ff87bfe14"
+      },
+      "c:/spacework/utilitype/src/functions/is-present.ts": {
+        "version": "cdbdadb2ca692a84e82a0ed500714b40a8cbfe344370fdeba59e3a01e3950f1d",
+        "signature": "0ce018c898be76aff0771c358d13bd93607f2cfdf456a8dd75f139c302eefd60"
+      },
+      "c:/spacework/utilitype/src/any/primitive-type.ts": {
+        "version": "17618336a9e180e4f1f6fc9ec5c5359221d55e8188a147db0f6582433f854b9a",
+        "signature": "6dfb25dabf160d78954562735ba14e18b1f5f740e07632bddf0e0855717381b2"
+      },
+      "c:/spacework/utilitype/src/strings/is-string.ts": {
+        "version": "7e93cf9b99887d7d1d1bfdd9504be233f0f12f77befc69e457766b5b23dc6ea6",
+        "signature": "58a18b2e5d0102749381dc6b39071989b2299aa0e7b2cbcde28967c69ab73ac1"
+      },
+      "c:/spacework/utilitype/src/booleans/is-boolean.ts": {
+        "version": "f9577b2e0ac457cf38a210e604f1b610465009663c9fda7202eaac540b61c0c1",
+        "signature": "76ded5ddc7b7412e1907267322f545e113bfbb286ce199dad1c5a04f95cbf662"
+      },
+      "c:/spacework/utilitype/src/any/get-primitive-type.ts": {
+        "version": "723adf94f90ad8129487fc7b4a6884eea584f439c835e98f130632ea33a1d82c",
+        "signature": "f8e582cb24242857a832a06889836becb7f1ad3679711c05042229240e844830"
+      },
+      "c:/spacework/utilitype/src/any/is-present.ts": {
+        "version": "6bcbb7d04733fb9709b6c08f77b1eb7ad31a5a649402792ba2ca90f26ecfc0cc",
+        "signature": "01490d7dce6fe936e70f31d7aebf3222216a832b00e61303014e5605f0192850"
+      },
+      "c:/spacework/utilitype/src/any/presence.ts": {
+        "version": "2528d36d46c1ebc28ba51f42ba1eab79f5453f3df6da8de2e3c0037db223c836",
+        "signature": "ce29d0992e8362edadd3cc99a7f6fa63812fb82c6bd81063050b3837cbe4192d"
+      },
+      "c:/spacework/utilitype/src/any/index.ts": {
+        "version": "4a2dc835a95d8925a26f7110e1b42e93da55a3aa7981f1ee10149702bfd96625",
+        "signature": "98d3479bd988635010b1f729db1def513e0158803ff89634556a02cb004e589b"
+      },
+      "c:/spacework/utilitype/src/arrays/chunk.ts": {
+        "version": "87d3a79a7bd11b4e35855d29dd122570e8cea5c53cb4b152772976a3d9156c96",
+        "signature": "13e7ac5f72d29962e6305220083f8f0e1f51c66e962bbbf34819ff6c017b14b4"
+      },
+      "c:/spacework/utilitype/src/arrays/wrap.ts": {
+        "version": "78fc518f76e76ea0ae0f2236441b38c386c7e974c064eafff1fb492cdb3a80f5",
+        "signature": "d3899e54152ee94f6f3dd36c4cbcf51a30a8bd69f354a85aa8c4e7b42fe08669"
+      },
+      "c:/spacework/utilitype/src/arrays/symmetric-difference.ts": {
+        "version": "b4ea58b24066cd33673a97bcaba525bb74d67532e436cea195b8407d5c806487",
+        "signature": "e8a24fd7ac6f16885d46d15112986c1b1397390f6fa40ed1939a2aa2446ee3c1"
+      },
+      "c:/spacework/utilitype/src/arrays/unique.ts": {
+        "version": "331522c42891dbb4861c201ac6fe696d8662723b365e9fa73b980e1b8cc4eb32",
+        "signature": "5afe3551ff6f2219c14bd639c0f8af5415daf9bc9666f7b44a3584da85649e58"
+      },
+      "c:/spacework/utilitype/src/arrays/last.ts": {
+        "version": "ac51e5fed7b4c71b73a7b6c20c72fc6497ad772fe552ea2a43e16de8e974348e",
+        "signature": "bccbcc90cc94d859782eb88c5f550bb9e4e3d25c2512e1754ca41a8374d4d224"
+      },
+      "c:/spacework/utilitype/src/arrays/first.ts": {
+        "version": "9603bac0783f58031456e498867882b4cc2bf259b4a3987e3d1ace33bae7992a",
+        "signature": "b8f2f3968723159c6c97f5a62224855a7314f72a5ea022d7f6d7bc68dd2ac45f"
+      },
+      "c:/spacework/utilitype/src/arrays/partition.ts": {
+        "version": "7166791439312c9ee187fed8f9c3a4476d93b4b32d0789e798f0fccf32c3ca28",
+        "signature": "afc0c662721550157e3e0fb01af78259816c9f7c9d8a8059440b5759cbeaa5c8"
+      },
+      "c:/spacework/utilitype/src/arrays/push-or-replace.ts": {
+        "version": "5af80fea0a85144e0e9619145922aa0a1e11d663b2ff541bff67a7d1878bc52e",
+        "signature": "ba87e8277a84417ff5f016b2c0197e8a4dda57fab916639ab370399d55f86e1e"
+      },
+      "c:/spacework/utilitype/src/arrays/range.ts": {
+        "version": "1459111613f46eea8ba0c79e062bb81dab21017813cb522fc849a41e76994116",
+        "signature": "4c0683c345679b1edcd01c25dd0d0acdbd272d914a1790f068f2f86bf3bbaea4"
+      },
+      "c:/spacework/utilitype/src/arrays/index.ts": {
+        "version": "8c14bb65183d1146dc97f5a30611cb0ef1073261f4b30dfd597cfcf6d0927b94",
+        "signature": "622cab670d23f56d50aece0d3801d070f663c876ee2c4a84810650fb829b61d2"
+      },
+      "c:/spacework/utilitype/src/booleans/index.ts": {
+        "version": "ef42846bb78ea47a3d93c3de4eff28b117180d316e9d5e2082fd2018ea592791",
+        "signature": "4e90c654591f68cc50b296dab673d9c107a9fd082481cb5b220ca0d099d6d2a3"
+      },
+      "c:/spacework/utilitype/src/arrays/compact.ts": {
+        "version": "aad996bca3111e348bc30b55b8f8b1337e167b345ba0e99958c413080fde9596",
+        "signature": "77f57ee7344d45aceb99b0d6932c9175c2663eb2e7c4cfc571e37ab582c98d17"
+      },
+      "c:/spacework/utilitype/src/objects/compact.ts": {
+        "version": "4d7ba612a48e9a06b8eb7bfc592e849e6e3105d2ca8b8880214394456ee5ea6f",
+        "signature": "8b9c72a4e1e2a6f3d8aa3d27d79911fcd2e0e7a2701b2edec5b0ff9a36bf4f76"
+      },
+      "c:/spacework/utilitype/src/enumerables/compact.ts": {
+        "version": "636e22426d524967b278722fc890badf23b92fc29264996aaf8fc60667642827",
+        "signature": "2723ca5744af1c54d8d0fba607d7312404f5b4973a040253049e7eb9bf864dbe"
+      },
+      "c:/spacework/utilitype/src/objects/is-empty.ts": {
+        "version": "81322f165a561f99d33f16891e005c9d68edc81e6a23b80d2061592be8df0c0b",
+        "signature": "94d48f3dea07cfa6db859e2107a6839326e38107b561feac92e861af3d7d8494"
+      },
+      "c:/spacework/utilitype/src/arrays/is-empty.ts": {
+        "version": "e0b0f22e1f1e0a86881cfa8f0f35b595c8afcf6e4c2887d531853e54b590e54c",
+        "signature": "82731803ccd9469ae06f7cb1c68cd6fe86f896d43f00fef419aa402b069b15a3"
+      },
+      "c:/spacework/utilitype/src/enumerables/is-empty.ts": {
+        "version": "ab42e5eb4af9a1227e11c8e60ba9cc3c10051ec63c1895f14a9b79ad5742b544",
+        "signature": "ca431ff5d6a8895e6f7de033b3788edca018c996c62e7ea14cc2b39f24bd8f48"
+      },
+      "c:/spacework/utilitype/src/enumerables/index.ts": {
+        "version": "d9698136924554151effb2c2e94f805ef38500c0fda5d1dd085e6679a09d6c77",
+        "signature": "1470e8416a40fd882787ef71625eac7b2519e0d0fbb831eb20223ecd5ef9aaca"
+      },
+      "c:/spacework/utilitype/src/functions/index.ts": {
+        "version": "1c0b54a6bf751c7093d2edc231226a98d2fe6ddb3862dd54617c3cb0df5e3766",
+        "signature": "a2440bc95c49dc52e84a13bb4938cbf797cbc27bf72809c943ba34835bdd6545"
+      },
+      "c:/spacework/utilitype/src/json/parse-json.ts": {
+        "version": "a496239cf30ba9f2e5667d278643475d357d461a97e6a17d0371efa101d81b04",
+        "signature": "b99abd5c36a0a15bf8b1a80723b86b1ba3de18fef3a55f30fc2e4b3240fe66ef"
+      },
+      "c:/spacework/utilitype/src/json/index.ts": {
+        "version": "b50db2f930e1bcbf2022e53708f8f9c325f05626486fd91281821d18a4dd5769",
+        "signature": "7dea198efd82c288abd9dc13c449c0fdc0f4116f67b4a4fb54e5da7c27fc3ce9"
+      },
+      "c:/spacework/utilitype/src/numbers/round.ts": {
+        "version": "8aabddb38e85b25b715b7f051c4ca14506ceb0fe2ce7380bfb45e6081f6b8b55",
+        "signature": "d390f4400ad32d53ba702da20a8ee93e9f58dc2ad546fceece3812bfc85c8e86"
+      },
+      "c:/spacework/utilitype/src/numbers/clamp.ts": {
+        "version": "08b385011638bf6eea4667d9dd4b6a61a0a671ba32b54258f5cb2f70f0eebb68",
+        "signature": "6149f9e1e3361a5f2dc9c5b6d032754bc5fc6985515f6cea56f3d275180ab00e"
+      },
+      "c:/spacework/utilitype/src/numbers/is-even.ts": {
+        "version": "a3a45d997e18acf32906adcdb11207f0f5f9363ff424cb6ca32e8a2b6a8aa09c",
+        "signature": "c90aa907889140d4cc405a608bceaf0c9c61b7af17c8d66578aa66ee8890713b"
+      },
+      "c:/spacework/utilitype/src/numbers/index.ts": {
+        "version": "874ac043062c288b1a53ba3d789794abaddeb237cd1b3702df606ce4e7671f42",
+        "signature": "5ca935a5520411fcdd61d945844332e9e682d7c2775fd143c487cdd8cef8153d"
+      },
+      "c:/spacework/utilitype/src/objects/transform-values.ts": {
+        "version": "7c38f6dbd355d7a5d15e6c07e41366cf2c469a97d1bec19680a0409a74bbfb5e",
+        "signature": "4bcdaf6fea617f069e84d3852c3de225615a65b6b4bb4624ae365343d1bb7714"
+      },
+      "c:/spacework/utilitype/src/objects/slice.ts": {
+        "version": "ba8664644e70ff02b1ae09313abe1bca17cac909012da066621e2d749a5e02e2",
+        "signature": "11c7a5fdb3e475b7c1d810d20df86143e571bf98378504e293a79d0e9c9a6dbb"
+      },
+      "c:/spacework/utilitype/src/objects/dig.ts": {
+        "version": "e1e5ce22fac202286d06354c551727044735a6876b739ef7715b911d87c9bad2",
+        "signature": "7ca3a38dff3d625d693f595fedad6a42cbf18a8169960bbd198d64b82fbc505c"
+      },
+      "c:/spacework/utilitype/src/objects/set.ts": {
+        "version": "874b07efabe7d5e38007a5ac84c6bf2509228c834049997e786fcc13f6ad858d",
+        "signature": "09dd9e757dd086d81ec6051c11ce638ea4a60b94374ec01ece6a614ae0aa11b4"
+      },
+      "c:/spacework/utilitype/src/objects/remodel.ts": {
+        "version": "a448733e8d55d6d85657a104f6c449294b8619b96241b5700b29244c58d4d8f4",
+        "signature": "1695ee6d052b928160d18cfeaf3d5cadb76eba3d6c32fbaa2c57acc1f9ffc044"
+      },
+      "c:/spacework/utilitype/src/objects/except.ts": {
+        "version": "ec273b06ff7459c1255363a54db15021ce7c7134df945937d64e556719a2af36",
+        "signature": "e825b0a0d3bd7be83b0198722817780bab8ae9f686304518a9b5e6c5889c5184"
+      },
+      "c:/spacework/utilitype/src/objects/is-equal.ts": {
+        "version": "b65cc0e28f977400fec843a6f1049f7b4bc49b1f038d3fb9484fbff268c3f067",
+        "signature": "9142f158cf1d82c6259b81e41cb61a434a036a188ef8882ba2f051fae8738952"
+      },
+      "c:/spacework/utilitype/src/objects/index.ts": {
+        "version": "d03305d6edf661bf3a41f591b52e9d9bedc1a1086845685f5c991b066785f1f4",
+        "signature": "c598a42b719affd61a2702cd153bbb885e9d1f151e2541761120565337f390a3"
+      },
+      "c:/spacework/utilitype/src/promises/promise-sequentially.ts": {
+        "version": "099ef4b9f5a8bb71bc2598da07798ee06ccd8d2595692051b9127ad3211ff006",
+        "signature": "dca412c41946941b74d00dc3450686002be53783cbacffd6a568bc291dd5649e"
+      },
+      "c:/spacework/utilitype/src/promises/map-promises.ts": {
+        "version": "b9ac128f1d1c23f76ed514490a691149fa741c0307558a30f4c1de5d5460837a",
+        "signature": "71f3feed6d1d4900a6ceb34c9dc88026e4d1730cc0b930811982f868d5a04797"
+      },
+      "c:/spacework/utilitype/src/promises/reduce-promises.ts": {
+        "version": "e05b7e7d8f2815f3f5480dbc9c7b5c769ac71fb8f4dd24ef162fba88a974c13b",
+        "signature": "6d80e13b9149260518fab4d961045259a07ce7c995bc50bb1ea3a25e7c510541"
+      },
+      "c:/spacework/utilitype/src/promises/promisify.ts": {
+        "version": "02371e6198866ec852076910236107b0f27c5cbf021ed38ca0e6d2d67d801bac",
+        "signature": "fda3a78073a0e8bf248524efc76501421d313bc452a3d9e3891a317b8a517d7f"
+      },
+      "c:/spacework/utilitype/src/promises/index.ts": {
+        "version": "2361406a498fea8870488e088608f26bd97e628bcb4f21f8782cac8714ffa1de",
+        "signature": "bfac27dcf431e6f25340c802c3e3922c70eb1e9026b92626bbab4eb261363ea4"
+      },
+      "c:/spacework/utilitype/src/strings/capitalize.ts": {
+        "version": "07af00b192c9542ba6d937b92c7ecb6207c71e30b860872638d0fb57191506a6",
+        "signature": "9ab12c256c8472bda329bf53a7f8445031198478a13a3f4bb4a3d9be25366e0e"
+      },
+      "c:/spacework/utilitype/src/strings/tokenize.ts": {
+        "version": "3dd92bfdc8a46f9056e7752512eaab296ca1c0f66b4a27aec801bc71ee157819",
+        "signature": "2f6766d6f2c3798a5074e1f061e1624f446def779920cbe85363cd5393b7755e"
+      },
+      "c:/spacework/utilitype/src/strings/camel-case.ts": {
+        "version": "8cb62004aa9673dfc301647426ff58017e1dd887258d52ef7ad9b1df9e7b8f03",
+        "signature": "56ed5ae0ad9a89d79c0125043a4068261f86e0b41da7c2686bfc4bca91d4f3ae"
+      },
+      "c:/spacework/utilitype/src/strings/title-case.ts": {
+        "version": "be2b79f7a4c3981b14226c268eb1ee64e444cddaf5005c5b2bd4e528666d66db",
+        "signature": "5988697de7e4d03f6a238cac90b70e99f05472a7b86bfc06cf287335e7929f68"
+      },
+      "c:/spacework/utilitype/src/strings/pascal-case.ts": {
+        "version": "b9cf577dc5c02fe3dd1ef604ea7ad975484fe12e941196d728f13d115b9f1f7c",
+        "signature": "15189e00c42ff43275c00e740796fa67c833f003f09b99286c80ef3155fb5371"
+      },
+      "c:/spacework/utilitype/src/strings/index.ts": {
+        "version": "d243cc42b3462f88cd4f45c5241908dcc1dd99f8bad098de31b38b13c88a59c1",
+        "signature": "b9895254189183ca1a703f4fbd9d35ea02c045c751a19cd60ae6528280ea0ad4"
+      },
+      "c:/spacework/utilitype/src/tabular-data/csv-data.ts": {
+        "version": "5b965dd893bbe8f736b5471552064da903e8651f14217e170b5bef460255ce98",
+        "signature": "3c363cc306d4c2502db1ac5f5f4119243f220968927510cb716f063897a880df"
+      },
+      "c:/spacework/utilitype/src/tabular-data/csv.ts": {
+        "version": "99e48c0d064aded2a58bea188b5279e2d16609c5c6f875132a9346c4381dea13",
+        "signature": "f262a0474d24d18e319419b0e0980ffd42fd2a08dd084d7808c2c20bb5eb13d0"
+      },
+      "c:/spacework/utilitype/src/tabular-data/index.ts": {
+        "version": "5e7e149c75fd6b85b0e980035bad4f9ef9b51925d3f4ad947eeb95d9e5f69139",
+        "signature": "2618130d9a19a32bec3bb0adc030cff58a13b0d1d4c1d7dcd5d3b5bf07d1eb73"
+      },
+      "c:/spacework/utilitype/src/units/filesize/format.ts": {
+        "version": "4fccd61c8f352e7dbd7b5ae913d509ec9f54011b99cb312e73fbcefab12af594",
+        "signature": "2e51faf5eeb5a8a1d30c27669138a55fb97a33c93e5aff2909f763bc4e2bac05"
+      },
+      "c:/spacework/utilitype/src/units/filesize/input.ts": {
+        "version": "7c91f8bf6c098691f4832e151df9264bad596561fdadac6e3936f698d598e5ae",
+        "signature": "0bfa7eec10ebc93a1f9185c1c016514ef800572085c2a5ba9bae605cb5cd0616"
+      },
+      "c:/spacework/utilitype/src/units/filesize/base-multiplier.ts": {
+        "version": "a5db9059bff7fa080906611af38c081c007ae065af3e5847d05c09c24583d9d5",
+        "signature": "d9e46a6181f5c1cbc6cdda0d738d6bfa668fcdbf61edab3dcc5f5c8e44e10d7a"
+      },
+      "c:/spacework/utilitype/src/units/filesize/multipliers.ts": {
+        "version": "1263319b58f03620cf1e676579048a2834e802e314e9edee02eed73e50f8eee4",
+        "signature": "069bd96ae86f45375ebac7fa04716f3bc9028b9c6349273a417d3e4c97f8215a"
+      },
+      "c:/spacework/utilitype/src/units/filesize/bytes.ts": {
+        "version": "bb25c659c103dbdd2259562ebc24c7496db3bb59bafd50a6d8eacac0f61b1f97",
+        "signature": "1041792b61fef2b77e2709e5293d08031c2986c95bf2a2dc6f902df606512b4d"
+      },
+      "c:/spacework/utilitype/src/units/percent/percent.ts": {
+        "version": "6da34c6cbfd4a66c9a681e4e4ba6f28e61ff076f7682b5bc35d6e54f82d9bab5",
+        "signature": "fbc7f33b8da3e808341e4a85f9bf85ed2e31832a29df67120d02fa8f2d4baeee"
+      },
+      "c:/spacework/utilitype/src/units/filesize/mega-bytes.ts": {
+        "version": "df6b014a3f2753727d90c8e6ac4d088c6c5b4bdba91fef49ec169c5afd78e2ba",
+        "signature": "f9680d473d734f3e120d7b4ae9fac138e251a86d3ec1feab11f45279ba4f5004"
+      },
+      "c:/spacework/utilitype/src/units/length-units/length-unit.ts": {
+        "version": "12c3ab31c147bec877c075ecb3cd119561d84d8fbe18486c83591293b32604f2",
+        "signature": "f8e66217e183ee802967bbcc677013bb70b25b4e9f37fff9a01afdcdbd3438f2"
+      },
+      "c:/spacework/utilitype/src/units/length-units/convert-length-unit.ts": {
+        "version": "b39f8b735c6e3dc4704bcf3ce350b0f8c5811d67c4567f5428032414366150be",
+        "signature": "c9a79172ff268b45b08bc83ef20fd30c3480778e1be3dd6e55a3d74bfd1c8acc"
+      },
+      "c:/spacework/utilitype/src/units/index.ts": {
+        "version": "06615782a7b112d940dcc417b348f43372905cfae7ec9a140ec46b5a0e591a3b",
+        "signature": "252f61d6046dd26637c3573830bdda01ac9530589884bc309398ad7cf4210e77"
+      },
+      "c:/spacework/utilitype/src/index.ts": {
+        "version": "0385e941f76943ff97b51f108c59cefec4716d1beb32e0f48c289b09ba29fe47",
+        "signature": "10f3ddc9da755000ef9a594deddff752ed17404ce1306ef5b9f8395d73f44116"
+      },
+      "c:/spacework/utilitype/src/arrays/is-missing.ts": {
+        "version": "455c77f343d7481a94d89a564efa3fd852fde73ef404ed6cf079ba6cdfe355d4",
+        "signature": "84f6fac07b054244d2d43579c33f670aa0b8f0af70db98b319e7608deac04b0d"
+      },
+      "c:/spacework/utilitype/src/strings/kebab-case.ts": {
+        "version": "045c95dc660a2ee2b1c5bcaddb9fd4c188abc571bc937fe49288233daea3bb0e",
+        "signature": "3efd705e2ea76c022fc0e61d00b1a75a60c679e46d047dbb82fd2641deb498d7"
+      },
+      "c:/spacework/utilitype/src/strings/sentence-case.ts": {
+        "version": "fc85185dbb5ada5a837e8b081e73b8f408e11e0717eeaac69b32874181282458",
+        "signature": "c668598889015f5f0e5a67fbf802bc02246a14add780e7685545c2e6bf13a101"
+      },
+      "c:/spacework/utilitype/src/strings/unquote.ts": {
+        "version": "c5bf97f7f0f25a5ed6128b4717ebd3179ec5114f288ebfed82074714363c69da",
+        "signature": "0e2f447d6a5285973dce75f14e89e9cc9ea15cc01671917d5cfde993caf5a064"
+      },
+      "c:/spacework/utilitype/node_modules/@types/expect.js/index.d.ts": {
+        "version": "99bb31b08b79cfc2b145d1b45b75693783feb7d771171fad19df8cd29b775334",
+        "signature": "99bb31b08b79cfc2b145d1b45b75693783feb7d771171fad19df8cd29b775334"
+      },
+      "c:/spacework/utilitype/node_modules/@types/json-schema/index.d.ts": {
+        "version": "0359682c54e487c4cab2b53b2b4d35cc8dea4d9914bc6abcdb5701f8b8e745a4",
+        "signature": "0359682c54e487c4cab2b53b2b4d35cc8dea4d9914bc6abcdb5701f8b8e745a4"
+      },
+      "c:/spacework/utilitype/node_modules/@types/json5/index.d.ts": {
+        "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
+        "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538"
+      },
+      "c:/spacework/utilitype/node_modules/@types/mocha/index.d.ts": {
+        "version": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205",
+        "signature": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/globals.d.ts": {
+        "version": "de3195627ed1d4ee51c5047f93cd76ce59a8601c0a5c6c391438d7f6cb3edf4d",
+        "signature": "de3195627ed1d4ee51c5047f93cd76ce59a8601c0a5c6c391438d7f6cb3edf4d"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/async_hooks.d.ts": {
+        "version": "5cd9c902b221c5aca739cbc3fb4339c3c5115198808d4f5d7610a674e4b9c66d",
+        "signature": "5cd9c902b221c5aca739cbc3fb4339c3c5115198808d4f5d7610a674e4b9c66d"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/buffer.d.ts": {
+        "version": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d",
+        "signature": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/child_process.d.ts": {
+        "version": "645912db9bbd041bf791e9a403de27d03d24625cbe4253edd71872c092251ec6",
+        "signature": "645912db9bbd041bf791e9a403de27d03d24625cbe4253edd71872c092251ec6"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/cluster.d.ts": {
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/constants.d.ts": {
+        "version": "e1e8a8a24bc0fe64cc9c5ccfa60e89f6e20783da8e8b76a242ebf99ef0ef07f3",
+        "signature": "e1e8a8a24bc0fe64cc9c5ccfa60e89f6e20783da8e8b76a242ebf99ef0ef07f3"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/crypto.d.ts": {
+        "version": "4ade8ea27bacf52458daa4509626f0c37489488631abb0da183dfe2cd5406df0",
+        "signature": "4ade8ea27bacf52458daa4509626f0c37489488631abb0da183dfe2cd5406df0"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/dgram.d.ts": {
+        "version": "f5093bf8e4ed54d6bfe5e7e88ee2b85fc4720586649c3c56f5cd14d972082ff8",
+        "signature": "f5093bf8e4ed54d6bfe5e7e88ee2b85fc4720586649c3c56f5cd14d972082ff8"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts": {
+        "version": "05e732266b5a36789fd9eb846b1f45fec1b6e318b740e3f20fc22fd95f9ebf31",
+        "signature": "05e732266b5a36789fd9eb846b1f45fec1b6e318b740e3f20fc22fd95f9ebf31"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/domain.d.ts": {
+        "version": "baeda1fadac9fd31920480b85340ab9c4266a25ad08403dee8e15fd0751101fb",
+        "signature": "baeda1fadac9fd31920480b85340ab9c4266a25ad08403dee8e15fd0751101fb"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/events.d.ts": {
+        "version": "8059976d7f408e08be353de1833172139bbaa70fc33d01b98249f7226c122119",
+        "signature": "8059976d7f408e08be353de1833172139bbaa70fc33d01b98249f7226c122119"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/fs.d.ts": {
+        "version": "2b9170bcb449ae83b40f7232158b0625226d20bf41d3161a1a934814e50e5601",
+        "signature": "2b9170bcb449ae83b40f7232158b0625226d20bf41d3161a1a934814e50e5601"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/http.d.ts": {
+        "version": "bd1d7a809d5cbd2626b0c9f5161dcf222bc9cb9567fd4bf02546bd546d3bd975",
+        "signature": "bd1d7a809d5cbd2626b0c9f5161dcf222bc9cb9567fd4bf02546bd546d3bd975"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/http2.d.ts": {
+        "version": "2e314cce67882577dc93d2c5746cd7069672a425722f440a7d592d6318b35929",
+        "signature": "2e314cce67882577dc93d2c5746cd7069672a425722f440a7d592d6318b35929"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/https.d.ts": {
+        "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/inspector.d.ts": {
+        "version": "8cfa78f4c052a93ac1e7accb0a78ce331dbd14f277ee0e193279ec31ce7efb25",
+        "signature": "8cfa78f4c052a93ac1e7accb0a78ce331dbd14f277ee0e193279ec31ce7efb25"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/module.d.ts": {
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/net.d.ts": {
+        "version": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50",
+        "signature": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/os.d.ts": {
+        "version": "37307ad10f30884fb9470a4e170b7be5f68a33b3d458cc3b7c63cd494802e594",
+        "signature": "37307ad10f30884fb9470a4e170b7be5f68a33b3d458cc3b7c63cd494802e594"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/path.d.ts": {
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "3a986a6d59e0de61d21b9a8f044dcd523535eb8f7c5d0511bc7563d45f723793",
+        "signature": "3a986a6d59e0de61d21b9a8f044dcd523535eb8f7c5d0511bc7563d45f723793"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/process.d.ts": {
+        "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
+        "signature": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/punycode.d.ts": {
+        "version": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c",
+        "signature": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/querystring.d.ts": {
+        "version": "32faa6602e78c7f2e30fddb6ea36fe8a40ea2aba1536dfd7c93922a51874dad4",
+        "signature": "32faa6602e78c7f2e30fddb6ea36fe8a40ea2aba1536dfd7c93922a51874dad4"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/readline.d.ts": {
+        "version": "b2ab3f2ac6a9889ccedb5d501d8f5c4487f0f6ab01af3703f436ce92a644fd39",
+        "signature": "b2ab3f2ac6a9889ccedb5d501d8f5c4487f0f6ab01af3703f436ce92a644fd39"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/repl.d.ts": {
+        "version": "3b13fd501c9f75c98acb87302b4ce284c09e7ef5eb39a23a74d0d6d16bbd4046",
+        "signature": "3b13fd501c9f75c98acb87302b4ce284c09e7ef5eb39a23a74d0d6d16bbd4046"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts": {
+        "version": "63cf1510b32cad5d0578dfbebd125d099f3f538c866a76788e9cb4c7ab24af2b",
+        "signature": "63cf1510b32cad5d0578dfbebd125d099f3f538c866a76788e9cb4c7ab24af2b"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/string_decoder.d.ts": {
+        "version": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948",
+        "signature": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts": {
+        "version": "3dc921e8a181e348f2559e903734e655a23c555a5703036f19bf68f4ab17f475",
+        "signature": "3dc921e8a181e348f2559e903734e655a23c555a5703036f19bf68f4ab17f475"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/trace_events.d.ts": {
+        "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
+        "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/tty.d.ts": {
+        "version": "9e666de17856eb640570276c9c71755080f0ba0bfea840438cabf25ef063886e",
+        "signature": "9e666de17856eb640570276c9c71755080f0ba0bfea840438cabf25ef063886e"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/url.d.ts": {
+        "version": "10e2924698b196d32b502876f727c194689c999636db42243604caa4584a6a53",
+        "signature": "10e2924698b196d32b502876f727c194689c999636db42243604caa4584a6a53"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/util.d.ts": {
+        "version": "ca78820a17b0e56d6899e355ace672444c8b3227be177f301413d1ca5cc08a52",
+        "signature": "ca78820a17b0e56d6899e355ace672444c8b3227be177f301413d1ca5cc08a52"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/v8.d.ts": {
+        "version": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033",
+        "signature": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/vm.d.ts": {
+        "version": "0f3abcfff40d142dff635e8332a9817b6fb9c8ee062be0dd8874cac52db7fd59",
+        "signature": "0f3abcfff40d142dff635e8332a9817b6fb9c8ee062be0dd8874cac52db7fd59"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/worker_threads.d.ts": {
+        "version": "3e797a974bc761b6e9f4755d6a9ec816c2dc181311ddccc2865735e2c698a43f",
+        "signature": "3e797a974bc761b6e9f4755d6a9ec816c2dc181311ddccc2865735e2c698a43f"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/zlib.d.ts": {
+        "version": "741fd2b9e47486d4ca7638a7df1ec378cfaf9fb92e4ce24dd088be319706e82c",
+        "signature": "741fd2b9e47486d4ca7638a7df1ec378cfaf9fb92e4ce24dd088be319706e82c"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/base.d.ts": {
+        "version": "c4fe30f3f235b8aa991491f977b5c5dfc7955d6c639a95211d97acc4e2de5faf",
+        "signature": "c4fe30f3f235b8aa991491f977b5c5dfc7955d6c639a95211d97acc4e2de5faf"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/assert.d.ts": {
+        "version": "c72890ffa78b7ab097981a35f230cca789a74855b9f7fe9d9912d0e2e7b12db3",
+        "signature": "c72890ffa78b7ab097981a35f230cca789a74855b9f7fe9d9912d0e2e7b12db3"
+      },
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/index.d.ts": {
+        "version": "3bfcca6efba640bd1b6a14ba050966026dea8e2b53e08b9df9d88de24cbbf535",
+        "signature": "3bfcca6efba640bd1b6a14ba050966026dea8e2b53e08b9df9d88de24cbbf535"
+      }
+    },
+    "options": {
+      "allowUnreachableCode": false,
+      "allowUnusedLabels": false,
+      "declaration": true,
+      "forceConsistentCasingInFileNames": true,
+      "lib": [
+        "lib.es2018.d.ts"
+      ],
+      "module": 1,
+      "noEmitOnError": true,
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitReturns": true,
+      "pretty": true,
+      "sourceMap": true,
+      "strict": true,
+      "target": 3,
+      "declarationMap": true,
+      "composite": true,
+      "rootDir": "C:/spacework/utilitype/src",
+      "baseUrl": "C:/spacework/utilitype/src",
+      "outDir": "C:/spacework/utilitype/dist",
+      "strictNullChecks": true,
+      "configFilePath": "C:/spacework/utilitype/tsconfig.json"
+    },
+    "referencedMap": {
+      "c:/spacework/utilitype/src/arrays/is-present.ts": [
+        "c:/spacework/utilitype/src/any/is-missing.ts"
+      ],
+      "c:/spacework/utilitype/src/numbers/is-present.ts": [
+        "c:/spacework/utilitype/src/numbers/is-number.ts"
+      ],
+      "c:/spacework/utilitype/src/objects/is-object.ts": [
+        "c:/spacework/utilitype/src/arrays/is-array.ts"
+      ],
+      "c:/spacework/utilitype/src/objects/is-present.ts": [
+        "c:/spacework/utilitype/src/any/is-missing.ts",
+        "c:/spacework/utilitype/src/objects/is-object.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/is-missing-or-empty.ts": [
+        "c:/spacework/utilitype/src/any/is-missing.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/is-missing-or-white-space.ts": [
+        "c:/spacework/utilitype/src/strings/is-missing-or-empty.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/is-present.ts": [
+        "c:/spacework/utilitype/src/strings/is-missing-or-white-space.ts"
+      ],
+      "c:/spacework/utilitype/src/functions/is-present.ts": [
+        "c:/spacework/utilitype/src/functions/is-function.ts"
+      ],
+      "c:/spacework/utilitype/src/any/get-primitive-type.ts": [
+        "c:/spacework/utilitype/src/any/primitive-type.ts",
+        "c:/spacework/utilitype/src/strings/is-string.ts",
+        "c:/spacework/utilitype/src/functions/is-function.ts",
+        "c:/spacework/utilitype/src/numbers/is-number.ts",
+        "c:/spacework/utilitype/src/arrays/is-array.ts",
+        "c:/spacework/utilitype/src/objects/is-object.ts",
+        "c:/spacework/utilitype/src/booleans/is-boolean.ts",
+        "c:/spacework/utilitype/src/any/is-missing.ts"
+      ],
+      "c:/spacework/utilitype/src/any/is-present.ts": [
+        "c:/spacework/utilitype/src/arrays/is-present.ts",
+        "c:/spacework/utilitype/src/numbers/is-present.ts",
+        "c:/spacework/utilitype/src/objects/is-present.ts",
+        "c:/spacework/utilitype/src/strings/is-present.ts",
+        "c:/spacework/utilitype/src/booleans/is-present.ts",
+        "c:/spacework/utilitype/src/functions/is-present.ts",
+        "c:/spacework/utilitype/src/any/primitive-type.ts",
+        "c:/spacework/utilitype/src/any/get-primitive-type.ts"
+      ],
+      "c:/spacework/utilitype/src/any/presence.ts": [
+        "c:/spacework/utilitype/src/any/is-present.ts"
+      ],
+      "c:/spacework/utilitype/src/any/index.ts": [
+        "c:/spacework/utilitype/src/any/is-present.ts",
+        "c:/spacework/utilitype/src/any/is-missing.ts",
+        "c:/spacework/utilitype/src/any/presence.ts"
+      ],
+      "c:/spacework/utilitype/src/arrays/wrap.ts": [
+        "c:/spacework/utilitype/src/arrays/is-array.ts"
+      ],
+      "c:/spacework/utilitype/src/arrays/last.ts": [
+        "c:/spacework/utilitype/src/any/is-present.ts"
+      ],
+      "c:/spacework/utilitype/src/arrays/index.ts": [
+        "c:/spacework/utilitype/src/arrays/chunk.ts",
+        "c:/spacework/utilitype/src/arrays/wrap.ts",
+        "c:/spacework/utilitype/src/arrays/symmetric-difference.ts",
+        "c:/spacework/utilitype/src/arrays/unique.ts",
+        "c:/spacework/utilitype/src/arrays/last.ts",
+        "c:/spacework/utilitype/src/arrays/first.ts",
+        "c:/spacework/utilitype/src/arrays/partition.ts",
+        "c:/spacework/utilitype/src/arrays/is-array.ts",
+        "c:/spacework/utilitype/src/arrays/push-or-replace.ts",
+        "c:/spacework/utilitype/src/arrays/range.ts"
+      ],
+      "c:/spacework/utilitype/src/booleans/index.ts": [
+        "c:/spacework/utilitype/src/booleans/is-boolean.ts"
+      ],
+      "c:/spacework/utilitype/src/arrays/compact.ts": [
+        "c:/spacework/utilitype/src/any/index.ts"
+      ],
+      "c:/spacework/utilitype/src/objects/compact.ts": [
+        "c:/spacework/utilitype/src/any/is-missing.ts"
+      ],
+      "c:/spacework/utilitype/src/enumerables/compact.ts": [
+        "c:/spacework/utilitype/src/arrays/compact.ts",
+        "c:/spacework/utilitype/src/objects/compact.ts"
+      ],
+      "c:/spacework/utilitype/src/enumerables/is-empty.ts": [
+        "c:/spacework/utilitype/src/objects/is-empty.ts",
+        "c:/spacework/utilitype/src/arrays/is-array.ts",
+        "c:/spacework/utilitype/src/arrays/is-empty.ts"
+      ],
+      "c:/spacework/utilitype/src/enumerables/index.ts": [
+        "c:/spacework/utilitype/src/enumerables/compact.ts",
+        "c:/spacework/utilitype/src/enumerables/is-empty.ts"
+      ],
+      "c:/spacework/utilitype/src/functions/index.ts": [
+        "c:/spacework/utilitype/src/functions/is-function.ts"
+      ],
+      "c:/spacework/utilitype/src/json/index.ts": [
+        "c:/spacework/utilitype/src/json/parse-json.ts"
+      ],
+      "c:/spacework/utilitype/src/numbers/index.ts": [
+        "c:/spacework/utilitype/src/numbers/round.ts",
+        "c:/spacework/utilitype/src/numbers/clamp.ts",
+        "c:/spacework/utilitype/src/numbers/is-even.ts",
+        "c:/spacework/utilitype/src/numbers/is-number.ts"
+      ],
+      "c:/spacework/utilitype/src/objects/slice.ts": [
+        "c:/spacework/utilitype/src/objects/compact.ts"
+      ],
+      "c:/spacework/utilitype/src/objects/dig.ts": [
+        "c:/spacework/utilitype/src/any/is-missing.ts"
+      ],
+      "c:/spacework/utilitype/src/objects/remodel.ts": [
+        "c:/spacework/utilitype/src/strings/is-string.ts"
+      ],
+      "c:/spacework/utilitype/src/objects/index.ts": [
+        "c:/spacework/utilitype/src/objects/transform-values.ts",
+        "c:/spacework/utilitype/src/objects/slice.ts",
+        "c:/spacework/utilitype/src/objects/dig.ts",
+        "c:/spacework/utilitype/src/objects/set.ts",
+        "c:/spacework/utilitype/src/objects/remodel.ts",
+        "c:/spacework/utilitype/src/objects/except.ts",
+        "c:/spacework/utilitype/src/objects/is-object.ts",
+        "c:/spacework/utilitype/src/objects/is-equal.ts"
+      ],
+      "c:/spacework/utilitype/src/promises/reduce-promises.ts": [
+        "c:/spacework/utilitype/src/any/index.ts"
+      ],
+      "c:/spacework/utilitype/src/promises/index.ts": [
+        "c:/spacework/utilitype/src/promises/promise-sequentially.ts",
+        "c:/spacework/utilitype/src/promises/map-promises.ts",
+        "c:/spacework/utilitype/src/promises/reduce-promises.ts",
+        "c:/spacework/utilitype/src/promises/promisify.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/camel-case.ts": [
+        "c:/spacework/utilitype/src/strings/capitalize.ts",
+        "c:/spacework/utilitype/src/strings/tokenize.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/title-case.ts": [
+        "c:/spacework/utilitype/src/strings/capitalize.ts",
+        "c:/spacework/utilitype/src/strings/tokenize.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/pascal-case.ts": [
+        "c:/spacework/utilitype/src/strings/capitalize.ts",
+        "c:/spacework/utilitype/src/strings/tokenize.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/index.ts": [
+        "c:/spacework/utilitype/src/strings/capitalize.ts",
+        "c:/spacework/utilitype/src/strings/tokenize.ts",
+        "c:/spacework/utilitype/src/strings/camel-case.ts",
+        "c:/spacework/utilitype/src/strings/title-case.ts",
+        "c:/spacework/utilitype/src/strings/pascal-case.ts"
+      ],
+      "c:/spacework/utilitype/src/tabular-data/csv.ts": [
+        "c:/spacework/utilitype/src/tabular-data/csv-data.ts",
+        "c:/spacework/utilitype/src/any/is-present.ts"
+      ],
+      "c:/spacework/utilitype/src/tabular-data/index.ts": [
+        "c:/spacework/utilitype/src/tabular-data/csv.ts"
+      ],
+      "c:/spacework/utilitype/src/units/filesize/input.ts": [
+        "c:/spacework/utilitype/src/units/filesize/format.ts"
+      ],
+      "c:/spacework/utilitype/src/units/filesize/multipliers.ts": [
+        "c:/spacework/utilitype/src/units/filesize/base-multiplier.ts",
+        "c:/spacework/utilitype/src/units/filesize/format.ts"
+      ],
+      "c:/spacework/utilitype/src/units/filesize/bytes.ts": [
+        "c:/spacework/utilitype/src/units/filesize/format.ts",
+        "c:/spacework/utilitype/src/units/filesize/input.ts",
+        "c:/spacework/utilitype/src/units/filesize/multipliers.ts"
+      ],
+      "c:/spacework/utilitype/src/units/percent/percent.ts": [
+        "c:/spacework/utilitype/src/numbers/round.ts"
+      ],
+      "c:/spacework/utilitype/src/units/filesize/mega-bytes.ts": [
+        "c:/spacework/utilitype/src/units/filesize/bytes.ts",
+        "c:/spacework/utilitype/src/units/filesize/input.ts"
+      ],
+      "c:/spacework/utilitype/src/units/length-units/convert-length-unit.ts": [
+        "c:/spacework/utilitype/src/units/length-units/length-unit.ts"
+      ],
+      "c:/spacework/utilitype/src/units/index.ts": [
+        "c:/spacework/utilitype/src/units/filesize/bytes.ts",
+        "c:/spacework/utilitype/src/units/percent/percent.ts",
+        "c:/spacework/utilitype/src/units/filesize/mega-bytes.ts",
+        "c:/spacework/utilitype/src/units/length-units/convert-length-unit.ts",
+        "c:/spacework/utilitype/src/units/length-units/length-unit.ts"
+      ],
+      "c:/spacework/utilitype/src/index.ts": [
+        "c:/spacework/utilitype/src/any/index.ts",
+        "c:/spacework/utilitype/src/arrays/index.ts",
+        "c:/spacework/utilitype/src/booleans/index.ts",
+        "c:/spacework/utilitype/src/enumerables/index.ts",
+        "c:/spacework/utilitype/src/functions/index.ts",
+        "c:/spacework/utilitype/src/json/index.ts",
+        "c:/spacework/utilitype/src/numbers/index.ts",
+        "c:/spacework/utilitype/src/objects/index.ts",
+        "c:/spacework/utilitype/src/promises/index.ts",
+        "c:/spacework/utilitype/src/strings/index.ts",
+        "c:/spacework/utilitype/src/tabular-data/index.ts",
+        "c:/spacework/utilitype/src/units/index.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/kebab-case.ts": [
+        "c:/spacework/utilitype/src/strings/tokenize.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/sentence-case.ts": [
+        "c:/spacework/utilitype/src/strings/capitalize.ts",
+        "c:/spacework/utilitype/src/strings/tokenize.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/unquote.ts": [
+        "c:/spacework/utilitype/src/arrays/last.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/child_process.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/cluster.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/child_process.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/crypto.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/dgram.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/domain.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/events.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/fs.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/http.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/http2.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/fs.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/http.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/https.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/http.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/inspector.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/net.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/perf_hooks.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/readline.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/repl.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/readline.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/vm.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/crypto.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/tty.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/url.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/querystring.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/v8.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/vm.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/zlib.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/base.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/globals.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/async_hooks.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/buffer.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/child_process.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/cluster.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/console.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/constants.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/crypto.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dgram.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/domain.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/fs.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/http.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/http2.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/https.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/inspector.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/module.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/os.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/path.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/perf_hooks.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/process.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/punycode.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/querystring.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/readline.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/repl.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/string_decoder.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/timers.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/trace_events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/tty.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/util.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/v8.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/vm.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/worker_threads.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/zlib.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/index.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/ts3.6/base.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/ts3.6/assert.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "c:/spacework/utilitype/src/any/get-primitive-type.ts": [
+        "c:/spacework/utilitype/src/any/primitive-type.ts"
+      ],
+      "c:/spacework/utilitype/src/any/index.ts": [
+        "c:/spacework/utilitype/src/any/is-present.ts",
+        "c:/spacework/utilitype/src/any/is-missing.ts",
+        "c:/spacework/utilitype/src/any/presence.ts"
+      ],
+      "c:/spacework/utilitype/src/arrays/index.ts": [
+        "c:/spacework/utilitype/src/arrays/chunk.ts",
+        "c:/spacework/utilitype/src/arrays/wrap.ts",
+        "c:/spacework/utilitype/src/arrays/symmetric-difference.ts",
+        "c:/spacework/utilitype/src/arrays/unique.ts",
+        "c:/spacework/utilitype/src/arrays/last.ts",
+        "c:/spacework/utilitype/src/arrays/first.ts",
+        "c:/spacework/utilitype/src/arrays/partition.ts",
+        "c:/spacework/utilitype/src/arrays/is-array.ts",
+        "c:/spacework/utilitype/src/arrays/push-or-replace.ts",
+        "c:/spacework/utilitype/src/arrays/range.ts"
+      ],
+      "c:/spacework/utilitype/src/booleans/index.ts": [
+        "c:/spacework/utilitype/src/booleans/is-boolean.ts"
+      ],
+      "c:/spacework/utilitype/src/enumerables/index.ts": [
+        "c:/spacework/utilitype/src/enumerables/compact.ts",
+        "c:/spacework/utilitype/src/enumerables/is-empty.ts"
+      ],
+      "c:/spacework/utilitype/src/functions/index.ts": [
+        "c:/spacework/utilitype/src/functions/is-function.ts"
+      ],
+      "c:/spacework/utilitype/src/json/index.ts": [
+        "c:/spacework/utilitype/src/json/parse-json.ts"
+      ],
+      "c:/spacework/utilitype/src/numbers/index.ts": [
+        "c:/spacework/utilitype/src/numbers/round.ts",
+        "c:/spacework/utilitype/src/numbers/clamp.ts",
+        "c:/spacework/utilitype/src/numbers/is-even.ts",
+        "c:/spacework/utilitype/src/numbers/is-number.ts"
+      ],
+      "c:/spacework/utilitype/src/objects/index.ts": [
+        "c:/spacework/utilitype/src/objects/transform-values.ts",
+        "c:/spacework/utilitype/src/objects/slice.ts",
+        "c:/spacework/utilitype/src/objects/dig.ts",
+        "c:/spacework/utilitype/src/objects/set.ts",
+        "c:/spacework/utilitype/src/objects/remodel.ts",
+        "c:/spacework/utilitype/src/objects/except.ts",
+        "c:/spacework/utilitype/src/objects/is-object.ts",
+        "c:/spacework/utilitype/src/objects/is-equal.ts"
+      ],
+      "c:/spacework/utilitype/src/promises/index.ts": [
+        "c:/spacework/utilitype/src/promises/promise-sequentially.ts",
+        "c:/spacework/utilitype/src/promises/map-promises.ts",
+        "c:/spacework/utilitype/src/promises/reduce-promises.ts",
+        "c:/spacework/utilitype/src/promises/promisify.ts"
+      ],
+      "c:/spacework/utilitype/src/strings/index.ts": [
+        "c:/spacework/utilitype/src/strings/capitalize.ts",
+        "c:/spacework/utilitype/src/strings/tokenize.ts",
+        "c:/spacework/utilitype/src/strings/camel-case.ts",
+        "c:/spacework/utilitype/src/strings/title-case.ts",
+        "c:/spacework/utilitype/src/strings/pascal-case.ts"
+      ],
+      "c:/spacework/utilitype/src/tabular-data/csv.ts": [
+        "c:/spacework/utilitype/src/tabular-data/csv-data.ts"
+      ],
+      "c:/spacework/utilitype/src/tabular-data/index.ts": [
+        "c:/spacework/utilitype/src/tabular-data/csv.ts"
+      ],
+      "c:/spacework/utilitype/src/units/filesize/input.ts": [
+        "c:/spacework/utilitype/src/units/filesize/format.ts"
+      ],
+      "c:/spacework/utilitype/src/units/filesize/multipliers.ts": [
+        "c:/spacework/utilitype/src/units/filesize/format.ts"
+      ],
+      "c:/spacework/utilitype/src/units/filesize/bytes.ts": [
+        "c:/spacework/utilitype/src/units/filesize/input.ts"
+      ],
+      "c:/spacework/utilitype/src/units/filesize/mega-bytes.ts": [
+        "c:/spacework/utilitype/src/units/filesize/input.ts"
+      ],
+      "c:/spacework/utilitype/src/units/length-units/convert-length-unit.ts": [
+        "c:/spacework/utilitype/src/units/length-units/length-unit.ts"
+      ],
+      "c:/spacework/utilitype/src/units/index.ts": [
+        "c:/spacework/utilitype/src/units/filesize/bytes.ts",
+        "c:/spacework/utilitype/src/units/percent/percent.ts",
+        "c:/spacework/utilitype/src/units/filesize/mega-bytes.ts",
+        "c:/spacework/utilitype/src/units/length-units/convert-length-unit.ts",
+        "c:/spacework/utilitype/src/units/length-units/length-unit.ts"
+      ],
+      "c:/spacework/utilitype/src/index.ts": [
+        "c:/spacework/utilitype/src/any/index.ts",
+        "c:/spacework/utilitype/src/arrays/index.ts",
+        "c:/spacework/utilitype/src/booleans/index.ts",
+        "c:/spacework/utilitype/src/enumerables/index.ts",
+        "c:/spacework/utilitype/src/functions/index.ts",
+        "c:/spacework/utilitype/src/json/index.ts",
+        "c:/spacework/utilitype/src/numbers/index.ts",
+        "c:/spacework/utilitype/src/objects/index.ts",
+        "c:/spacework/utilitype/src/promises/index.ts",
+        "c:/spacework/utilitype/src/strings/index.ts",
+        "c:/spacework/utilitype/src/tabular-data/index.ts",
+        "c:/spacework/utilitype/src/units/index.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/child_process.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/cluster.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/child_process.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/crypto.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/dgram.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/domain.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/events.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/fs.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/http.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/http2.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/fs.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/http.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/https.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/http.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/inspector.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/net.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/perf_hooks.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/readline.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/repl.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/readline.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/vm.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/crypto.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/tty.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/url.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/querystring.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/v8.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/vm.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/zlib.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/base.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/globals.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/async_hooks.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/buffer.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/child_process.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/cluster.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/console.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/constants.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/crypto.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dgram.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/domain.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/fs.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/http.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/http2.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/https.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/inspector.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/module.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/os.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/path.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/perf_hooks.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/process.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/punycode.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/querystring.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/readline.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/repl.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/string_decoder.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/timers.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/trace_events.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/tty.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/url.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/util.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/v8.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/vm.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/worker_threads.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/zlib.d.ts"
+      ],
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/index.d.ts": [
+        "c:/spacework/utilitype/node_modules/@types/node/ts3.6/base.d.ts",
+        "c:/spacework/utilitype/node_modules/@types/node/ts3.6/assert.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2016.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "c:/spacework/utilitype/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "c:/spacework/utilitype/src/any/is-missing.ts",
+      "c:/spacework/utilitype/src/arrays/is-present.ts",
+      "c:/spacework/utilitype/src/numbers/is-number.ts",
+      "c:/spacework/utilitype/src/numbers/is-present.ts",
+      "c:/spacework/utilitype/src/arrays/is-array.ts",
+      "c:/spacework/utilitype/src/objects/is-object.ts",
+      "c:/spacework/utilitype/src/objects/is-present.ts",
+      "c:/spacework/utilitype/src/strings/is-missing-or-white-space.ts",
+      "c:/spacework/utilitype/src/booleans/is-present.ts",
+      "c:/spacework/utilitype/src/functions/is-function.ts",
+      "c:/spacework/utilitype/src/functions/is-present.ts",
+      "c:/spacework/utilitype/src/any/primitive-type.ts",
+      "c:/spacework/utilitype/src/booleans/is-boolean.ts",
+      "c:/spacework/utilitype/src/any/get-primitive-type.ts",
+      "c:/spacework/utilitype/src/any/is-present.ts",
+      "c:/spacework/utilitype/src/any/presence.ts",
+      "c:/spacework/utilitype/src/any/index.ts",
+      "c:/spacework/utilitype/src/arrays/chunk.ts",
+      "c:/spacework/utilitype/src/arrays/wrap.ts",
+      "c:/spacework/utilitype/src/arrays/symmetric-difference.ts",
+      "c:/spacework/utilitype/src/arrays/unique.ts",
+      "c:/spacework/utilitype/src/arrays/last.ts",
+      "c:/spacework/utilitype/src/arrays/first.ts",
+      "c:/spacework/utilitype/src/arrays/partition.ts",
+      "c:/spacework/utilitype/src/arrays/push-or-replace.ts",
+      "c:/spacework/utilitype/src/arrays/range.ts",
+      "c:/spacework/utilitype/src/arrays/index.ts",
+      "c:/spacework/utilitype/src/booleans/index.ts",
+      "c:/spacework/utilitype/src/arrays/compact.ts",
+      "c:/spacework/utilitype/src/objects/compact.ts",
+      "c:/spacework/utilitype/src/enumerables/compact.ts",
+      "c:/spacework/utilitype/src/objects/is-empty.ts",
+      "c:/spacework/utilitype/src/arrays/is-empty.ts",
+      "c:/spacework/utilitype/src/enumerables/is-empty.ts",
+      "c:/spacework/utilitype/src/enumerables/index.ts",
+      "c:/spacework/utilitype/src/functions/index.ts",
+      "c:/spacework/utilitype/src/json/parse-json.ts",
+      "c:/spacework/utilitype/src/json/index.ts",
+      "c:/spacework/utilitype/src/numbers/round.ts",
+      "c:/spacework/utilitype/src/numbers/clamp.ts",
+      "c:/spacework/utilitype/src/numbers/is-even.ts",
+      "c:/spacework/utilitype/src/numbers/index.ts",
+      "c:/spacework/utilitype/src/objects/transform-values.ts",
+      "c:/spacework/utilitype/src/objects/slice.ts",
+      "c:/spacework/utilitype/src/objects/dig.ts",
+      "c:/spacework/utilitype/src/objects/set.ts",
+      "c:/spacework/utilitype/src/objects/remodel.ts",
+      "c:/spacework/utilitype/src/objects/except.ts",
+      "c:/spacework/utilitype/src/objects/is-equal.ts",
+      "c:/spacework/utilitype/src/objects/index.ts",
+      "c:/spacework/utilitype/src/promises/promise-sequentially.ts",
+      "c:/spacework/utilitype/src/promises/map-promises.ts",
+      "c:/spacework/utilitype/src/promises/reduce-promises.ts",
+      "c:/spacework/utilitype/src/promises/promisify.ts",
+      "c:/spacework/utilitype/src/promises/index.ts",
+      "c:/spacework/utilitype/src/strings/capitalize.ts",
+      "c:/spacework/utilitype/src/strings/tokenize.ts",
+      "c:/spacework/utilitype/src/strings/camel-case.ts",
+      "c:/spacework/utilitype/src/strings/title-case.ts",
+      "c:/spacework/utilitype/src/strings/pascal-case.ts",
+      "c:/spacework/utilitype/src/strings/index.ts",
+      "c:/spacework/utilitype/src/tabular-data/csv-data.ts",
+      "c:/spacework/utilitype/src/tabular-data/csv.ts",
+      "c:/spacework/utilitype/src/tabular-data/index.ts",
+      "c:/spacework/utilitype/src/units/filesize/format.ts",
+      "c:/spacework/utilitype/src/units/filesize/input.ts",
+      "c:/spacework/utilitype/src/units/filesize/base-multiplier.ts",
+      "c:/spacework/utilitype/src/units/filesize/multipliers.ts",
+      "c:/spacework/utilitype/src/units/filesize/bytes.ts",
+      "c:/spacework/utilitype/src/units/percent/percent.ts",
+      "c:/spacework/utilitype/src/units/length-units/length-unit.ts",
+      "c:/spacework/utilitype/src/units/length-units/convert-length-unit.ts",
+      "c:/spacework/utilitype/src/arrays/is-missing.ts",
+      "c:/spacework/utilitype/src/strings/kebab-case.ts",
+      "c:/spacework/utilitype/src/strings/sentence-case.ts",
+      "c:/spacework/utilitype/src/strings/unquote.ts",
+      "c:/spacework/utilitype/node_modules/@types/expect.js/index.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/json-schema/index.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/json5/index.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/mocha/index.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/globals.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/async_hooks.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/buffer.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/child_process.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/cluster.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/console.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/constants.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/crypto.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/dgram.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/dns.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/domain.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/events.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/fs.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/http.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/http2.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/https.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/inspector.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/module.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/net.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/os.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/path.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/perf_hooks.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/process.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/punycode.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/querystring.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/readline.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/repl.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/stream.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/string_decoder.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/timers.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/tls.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/trace_events.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/tty.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/url.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/util.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/v8.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/vm.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/worker_threads.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/zlib.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/base.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/assert.d.ts",
+      "c:/spacework/utilitype/node_modules/@types/node/ts3.6/index.d.ts",
+      "c:/spacework/utilitype/src/strings/is-missing-or-empty.ts",
+      "c:/spacework/utilitype/src/strings/is-present.ts",
+      "c:/spacework/utilitype/src/strings/is-string.ts",
+      "c:/spacework/utilitype/src/units/filesize/mega-bytes.ts",
+      "c:/spacework/utilitype/src/units/index.ts",
+      "c:/spacework/utilitype/src/index.ts"
+    ]
+  },
+  "version": "3.5.3"
+}

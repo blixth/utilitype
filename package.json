@@ -1,6 +1,5 @@
 {
   "name": "utilitype",
-  "version": "0.1",
   "description": "Utilities functions in typescript",
   "license": "Apache-2.0 License",
   "main": "dist/index.js",
@@ -11,6 +10,7 @@
     "test:coverage": "nyc --reporter=lcov npm run test"
   },
   "devDependencies": {
+    "@types/expect.js": "^0.3.29",
     "@types/mocha": "^5.2.7",
     "@types/node": "^11.12.1",
     "@typescript-eslint/eslint-plugin": "^4.6.0",

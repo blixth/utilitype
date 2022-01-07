@@ -1,7 +1,9 @@
 {
 	"extends": "./node_modules/gts/tsconfig-google.json",
 	"compilerOptions": {
-		"lib": ["es2018"],
+		"lib": [
+			"es2018"
+		],
 		"declaration": true,
 		"declarationMap": true,
 		"composite": true,
@@ -10,7 +12,14 @@
 		"outDir": "dist",
 		"strictNullChecks": true
 	},
-	"include": ["src/*.ts", "src/**/*.ts", "test/*.ts", "test/**/*.ts"],
-  "exclude": ["test/*"],
+	"include": [
+		"src/*.ts",
+		"src/**/*.ts",
+	],
+	"exclude": [
+		"dist/*",
+		"node-modules/*",
+		"test/*"
+	],
 	"references": []
 }
