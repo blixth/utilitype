@@ -4,7 +4,7 @@
   "license": "Apache-2.0 License",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/blixth/utilitype",
   "scripts": {
     "build": "tsc --build ./tsconfig.json",
