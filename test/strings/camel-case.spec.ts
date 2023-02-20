@@ -49,4 +49,10 @@ describe('camelCase', () => {
       expect(camelCase('foo bar')).to.eql('fooBar');
     });
   });
+
+  context('when input has digits', () => {
+    it('camel cases that string', () => {
+      expect(camelCase('foo bar2')).to.eql('fooBar2');
+    });
+  });
 });

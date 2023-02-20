@@ -21,5 +21,5 @@
  *   //=> ['Polestar', '2']
  */
 export function tokenize(input: string): string[] {
-  return input.match(/[a-z]+|([A-Z][a-z]+)|([A-Z]+)/g) || [input];
+  return input.match(/[a-z0-9]+|([A-Z][a-z0-9]+)|([A-Z0-9]+)/g) || [input];
 }
